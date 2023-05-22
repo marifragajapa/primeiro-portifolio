@@ -21,7 +21,7 @@
 body { 
     /* height: modelo de visualização baseada na view da pagina 100vh; use o teclado ctrl+k+c */
     box-sizing: border-box;
-    background-color:var(--cor-primaria);
+    background-color: var(--cor-primaria);
     color: var(--cor-secundaria);
 }
 
@@ -40,7 +40,7 @@ img {
 }
 
 .cabecalho_link {
-    font-family:var(--fonte-secundaria);
+    font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
     font-weight: 600;
     color: var(--cor-terciaria);
@@ -48,7 +48,7 @@ img {
 }
 
 #span{
-    color:var(--cor-terciaria);
+    color: var(--cor-terciaria);
     border: 1px solid var(--cor-terciaria);
     padding: 10px;
 }
@@ -118,7 +118,7 @@ h1 {
     font-family: var(--fonte-secundaria);
 }
 
-.apresentacao_links_link:hover {
+.apresentacao_links_link:hover{
     background-color: var(--cor-hover);
     padding: 3%;
 }
@@ -128,8 +128,8 @@ h1 {
 }
 
 .rodape {
+    color: var(--cor-primaria);
     padding: 24px;
-    color: #000000;
     background-color: var(--cor-terciaria);
     text-align: center;
     font-family: var(--fonte-secundaria);
