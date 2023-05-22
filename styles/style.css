@@ -8,6 +8,7 @@
 
     --fonte-primaria: 'Krona One', sans-serif;
     --fonte-secundaria: 'Montserrat', sans-serif;
+    --font-size: 16px;
 }
 
 /* reset do css */
@@ -136,7 +137,11 @@ h1 {
     color: var(--cor-terciaria);
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 768px) {
+    
+    :root {
+        font-size: 14px;
+    }
     .cabecalho {
         padding: 10%;   
     }
