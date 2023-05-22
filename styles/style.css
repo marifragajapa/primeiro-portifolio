@@ -118,7 +118,7 @@ h1 {
     font-family: var(--fonte-secundaria);
 }
 
-.apresentacao_links_link:hover {
+.apresentacao_links_navegacao:hover {
     background-color: var(--cor-hover);
     padding: 3%;
 }
