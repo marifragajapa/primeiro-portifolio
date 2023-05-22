@@ -22,6 +22,9 @@ Meu primeiro repositório desenvolvido com os cursos de HTML e CSS da Alura
 * [Licença](#licença)
 * [Conclusão](#conclusão)
 
+## Link:
+https://marifragajapa.github.io/primeiro-portifolio/
+
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - `HTML`: O HTML tem um papel fundamental para a aplicação funcionar corretamente com a inserção dos elementos `<audio>` que irão prover para o JavaScript os controles de reprodução da mídia carregada. O HTML já virá pronto nos arquivos iniciais do curso;
