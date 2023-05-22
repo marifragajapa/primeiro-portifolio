@@ -142,7 +142,7 @@ h1 {
     color: var(--cor-terciaria);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1080px) {
     
     :root {
         font-size: 14px;
