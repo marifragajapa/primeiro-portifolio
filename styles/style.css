@@ -25,6 +25,11 @@ body {
     color: var(--cor-secundaria);
 }
 
+img {
+    width: 160px;
+    height: 160px;
+}        
+
 .cabecalho {
     padding: 2% 0% 0% 15%;
 }
